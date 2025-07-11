@@ -13,4 +13,4 @@ def process_feed(source, url, country, seen_titles, news_data, language_data):
 
 
 
-snapshots=get_wayback_snapshots(url, "fromDate", "toDate")//remember the format of yhe date
+snapshots=get_wayback_snapshots(url, "fromDate", "toDate")//remember the format of the date
